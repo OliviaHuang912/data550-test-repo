@@ -1,0 +1,10 @@
+---
+title: "My first git repo"
+author: "Chiao Yu Huang"
+date: "`r Sys.Date()`"
+output: github_document
+---
+
+# My first commit
+
+some text....
