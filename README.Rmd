@@ -10,6 +10,7 @@ output: github_document
 some text....
 
 text for another commit
+text for yet another commit
 # My second commit
 
 Here is more text that will be added in my second commit.
