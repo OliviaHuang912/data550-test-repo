@@ -8,3 +8,8 @@ output: github_document
 # My first commit
 
 some text....
+
+text for another commit
+# My second commit
+
+Here is more text that will be added in my second commit.
